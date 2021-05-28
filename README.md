@@ -1,6 +1,8 @@
 ## Hello everyone! 👋 Diana here
 
 
+:books: “If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.” :star2:
+
 #### :woman_student: I am an international business administrator in the data analysis, reporting and BI world. :bar_chart: :chart_with_upwards_trend: :woman_technologist: :earth_americas:
 
 
@@ -52,7 +54,7 @@ Reporting Analyst at OI Latam Services :mag_right:
 ### Communities :heart:
 
 
-:black_medium_square: DataScienceFEM
+:black_medium_square: DataScienceFEM 
 
 :black_medium_square: Woman Who Code
 
